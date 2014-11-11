@@ -1,0 +1,32 @@
+To: abantika das <ab@gmail.com>
+Subject: Welcome abantika
+Message-ID: <5e35689e4e66eda75057a8ed1671e986@localhost>
+Date: Tue, 15 Jul 2014 19:08:41 +0000
+From: 
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML>
+<html lang=3D"en-US">
+<head>
+=09<meta charset=3D"UTF-=
+8">
+=09<title></title>
+</head>
+<body>
+=09<p>Hello abantika,</p>
+
+<p>Welcome to SiteNameHere! Please click on the following link to confirm y=
+our SiteNameHere account:</p>
+
+<p><a href=3D"http://localhost:8000/auth/activate/7vV9pMhAZhEx12fo9gKLpo6W1=
+CR1UKMAGqOZgGuUnQ">http://localhost:8000/auth/activate/7vV9pMhAZhEx12fo9gKL=
+po6W1CR1UKMAGqOZgGuUnQ</a></p>
+
+<p>Best regards,</p>
+
+<p>SiteNameHere Team</p>
+</body>
+</html>
+

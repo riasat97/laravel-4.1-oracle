@@ -1,0 +1,32 @@
+To: adib adib <gr8adib@gmail.com>
+Subject: Welcome adib
+Message-ID: <a63f59cb6c9e8e5e90bcc9e3883ea9d7@localhost>
+Date: Tue, 15 Jul 2014 18:58:28 +0000
+From: 
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML>
+<html lang=3D"en-US">
+<head>
+=09<meta charset=3D"UTF-=
+8">
+=09<title></title>
+</head>
+<body>
+=09<p>Hello adib,</p>
+
+<p>Welcome to SiteNameHere! Please click on the following link to confirm y=
+our SiteNameHere account:</p>
+
+<p><a href=3D"http://localhost:8000/auth/activate/XBviKJIbIHC00rY6vbs76F7S3=
+zCaQfiFqzFuVFDN5Y">http://localhost:8000/auth/activate/XBviKJIbIHC00rY6vbs7=
+6F7S3zCaQfiFqzFuVFDN5Y</a></p>
+
+<p>Best regards,</p>
+
+<p>SiteNameHere Team</p>
+</body>
+</html>
+
