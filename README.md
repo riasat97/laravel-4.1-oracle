@@ -1,8 +1,6 @@
-## Laravel 4.1 - Starter Kit with Oracle DB Support
-This is a Laravel 4.1 Starter Kit and it will help you getting started with Laravel 4.1.
+## Laravel 4.1 with Oracle DB 
 
-Tottaly based on [laravel4-starter-kit](https://github.com/brunogaspar/laravel4-starter-kit)
-
+Laravel-OCI8 is an Oracle Database Driver package for Laravel 4. Laravel-OCI8 is an extension of Illuminate/Database that uses OCI8 extension to communicate with Oracle..This project is totally based on https://github.com/yajra/laravel-4.1-starter-kit using https://github.com/yajra/laravel-oci8
 
 It includes examples on how to use the framework itself and how to use some
 packages, like the awesome [Sentry 2](https://github.com/cartalyst/sentry) package.
@@ -99,14 +97,6 @@ Now, you need to create yourself a user and finish the installation.
 Use the following command to create your default user, user groups and run all the necessary migrations automatically.
 
 	php artisan app:install
-
------
-
-### 7) Accessing the Administration
-
-To access the administration page, you just need to access `http://your-host/public/admin` on your browser and it will automatically redirect you to the login page, in the login page, just fill in and submit the form.
-
-After you being authenticated, you will be redirected back to the administration page.
 
 -----
 
